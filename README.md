@@ -6,7 +6,7 @@
 
 ## Why this project
 
-Before starting university at the ripe age of 24 for my Bachelor's of Data Science, I studied and worked in hospitality for a while, including two years supervising F&B operations at the Vancouver Convention Centre. That gave me a feel for the operations side of the industry. With this project I wanted to look at it from the market side: where do restaurants open, survive and close across the city, and what can public data say about it?
+Before starting university at the ripe age of 24 for my bachelor degree in Data Science, I studied and worked in hospitality for a while, including two years supervising F&B operations at the Vancouver Convention Centre. That gave me a feel for the operations side of the industry. With this project I wanted to look at it from the market side: where do restaurants open, survive and close across the city, and what can public data say about it?
 
 ## The business case
 
@@ -42,7 +42,7 @@ Using about 920,000 business licence records (2013-2026), I counted active resta
 | Year stored as two-digit text ("97","05") | Sorting put 2000-2012 before the 1990s | Converted it to a numeric four-digit year |
 
 
-## Next steps
+## Next steps for this project
 - [ ] **part 2: customer activity:** use parking tickets from 2011-2026 (about 6 million records) as a rough measure of how busy each area is, matched to neighbourhoods by street and block
 - [ ] **part 3: future growth:** use building permits to see where new construction is happening
 - [ ] **part 4: recommendation:** combine competition and customer activity into one score, and make the final top-two recommendation
